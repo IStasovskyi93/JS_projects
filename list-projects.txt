@@ -1,0 +1,2 @@
+1. Game "Guess number". 
+PC determines random digit from 0 to 100 and player must guess it with the least quantity of attempts.
